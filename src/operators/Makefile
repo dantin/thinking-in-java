@@ -16,7 +16,8 @@ sources=\
 	MathOps.java\
 	AutoInc.java\
 	Equivalence.java\
-	EqualsMethod.java
+	EqualsMethod.java\
+	EqualsMethod2.java
 
 norun=
 
