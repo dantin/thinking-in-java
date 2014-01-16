@@ -1,7 +1,7 @@
 JAVAC=javac
 JFLAGS=
 
-bin=bin
+bin=bin/
 
 util-path=../../tools/
 
@@ -11,13 +11,14 @@ utils=\
 sources=\
 	HelloDate.java\
 	Precedence.java\
-	Assignment.java
+	Assignment.java\
+	PassObject.java
 
 norun=
 
 targets := $(filter-out $(norun:.java=.class), $(sources:.java=.class))
 
-build: init util $(sources:.java=.class)
+build: init util $(addprefix $(bin), $(sources:.java=.class))
 
 util: $(addprefix $(util-path), $(utils:.java=.class))
 
