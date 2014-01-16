@@ -10,7 +10,8 @@ utils=\
 
 sources=\
 	HelloDate.java\
-	Precedence.java
+	Precedence.java\
+	Assignment.java
 
 norun=
 
