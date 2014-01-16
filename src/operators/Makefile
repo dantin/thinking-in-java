@@ -9,7 +9,8 @@ utils=\
 	net/mindview/util/Print.java
 
 sources=\
-	HelloDate.java
+	HelloDate.java\
+	Precedence.java
 
 norun=
 
