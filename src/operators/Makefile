@@ -15,7 +15,8 @@ sources=\
 	PassObject.java\
 	MathOps.java\
 	AutoInc.java\
-	Equivalence.java
+	Equivalence.java\
+	EqualsMethod.java
 
 norun=
 
