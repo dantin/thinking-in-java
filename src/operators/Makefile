@@ -17,7 +17,8 @@ sources=\
 	AutoInc.java\
 	Equivalence.java\
 	EqualsMethod.java\
-	EqualsMethod2.java
+	EqualsMethod2.java\
+	Bool.java
 
 norun=
 
