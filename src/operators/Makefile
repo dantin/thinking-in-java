@@ -13,7 +13,8 @@ sources=\
 	Precedence.java\
 	Assignment.java\
 	PassObject.java\
-	MathOps.java
+	MathOps.java\
+	AutoInc.java
 
 norun=
 
