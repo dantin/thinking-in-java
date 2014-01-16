@@ -12,13 +12,14 @@ sources=\
 	HelloDate.java\
 	Precedence.java\
 	Assignment.java\
-	PassObject.java
+	PassObject.java\
+	MathOps.java
 
 norun=
 
 targets := $(filter-out $(norun:.java=.class), $(sources:.java=.class))
 
-build: init util $(addprefix $(bin), $(sources:.java=.class))
+build: init util $(sources:.java=.class)
 
 util: $(addprefix $(util-path), $(utils:.java=.class))
 
