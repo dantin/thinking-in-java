@@ -27,9 +27,11 @@ sources=\
 	StringOperators.java\
 	Casting.java\
 	CastingNumbers.java\
-	RoundingNumbers.java
+	RoundingNumbers.java\
+	AllOps.java
 
-norun=
+norun=\
+	AllOps.java
 
 targets := $(filter-out $(norun:.java=.class), $(sources:.java=.class))
 
