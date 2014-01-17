@@ -18,7 +18,8 @@ sources=\
 	Equivalence.java\
 	EqualsMethod.java\
 	EqualsMethod2.java\
-	Bool.java
+	Bool.java\
+	ShortCircuit.java
 
 norun=
 
