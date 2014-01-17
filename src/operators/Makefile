@@ -20,7 +20,8 @@ sources=\
 	EqualsMethod2.java\
 	Bool.java\
 	ShortCircuit.java\
-	Exponents.java
+	Exponents.java\
+	URShift.java
 
 norun=
 
