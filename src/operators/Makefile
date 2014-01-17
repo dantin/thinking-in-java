@@ -19,7 +19,8 @@ sources=\
 	EqualsMethod.java\
 	EqualsMethod2.java\
 	Bool.java\
-	ShortCircuit.java
+	ShortCircuit.java\
+	Exponents.java
 
 norun=
 
