@@ -24,7 +24,10 @@ sources=\
 	URShift.java\
 	BitManipulation.java\
 	TernaryIfElse.java\
-	StringOperators.java
+	StringOperators.java\
+	Casting.java\
+	CastingNumbers.java\
+	RoundingNumbers.java
 
 norun=
 
