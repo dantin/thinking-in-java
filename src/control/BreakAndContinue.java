@@ -33,6 +33,7 @@ public class BreakAndContinue {
 		continue; // Top of loop
 	    System.out.print(i + " ");
 	}
+	System.out.println();
     }
 
 }
