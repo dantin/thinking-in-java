@@ -21,7 +21,10 @@ sources=\
 	Bool.java\
 	ShortCircuit.java\
 	Exponents.java\
-	URShift.java
+	URShift.java\
+	BitManipulation.java\
+	TernaryIfElse.java\
+	StringOperators.java
 
 norun=
 
