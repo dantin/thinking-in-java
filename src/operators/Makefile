@@ -20,6 +20,7 @@ sources=\
 	EqualsMethod2.java\
 	Bool.java\
 	ShortCircuit.java\
+	Literals.java\
 	Exponents.java\
 	URShift.java\
 	BitManipulation.java\
