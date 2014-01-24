@@ -14,6 +14,7 @@ public class RandomDoubles {
 	RandomDoubles rd = new RandomDoubles();
 	for (int i = 0; i < 7; i++)
 	    System.out.print(rd.next() + " ");
+	System.out.println();
     }
 
 }
